@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxeekhout33
-- 👀 I’m interested in be millionare
+- 👀 I’m interested in being a fpv drone pilot
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on 4Geeks Academy
 - 📫 How to reach me: maxeekhout93@gmail.com
