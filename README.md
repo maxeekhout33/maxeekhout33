@@ -1,16 +1,16 @@
+<!---
 <img src="https://i.imgur.com/OSdr9n3.png">
-<div align="center">
+--->
 <h1 align="center"><a href="">Hi, I'm Max! 👋 <br> From 🌎 </a></h1>
-</div>
 
+### About me
 
-## About me
+- I'm currently learning more Python while developing my personal portfolio to enhance my knowledge in Back-end.
+- I'm interested in being an FPV drone pilot
+- How to reach me: maxeekhout93@gmail.com
+- Connect with me: <a href="https://www.linkedin.com/in/maxeekhout" rel="nofollow"><img src="https://camo.githubusercontent.com/8c244a7a7b8a6e767d241c9a6c5e1b5e13ea693770c52bbc3fe564ba4044a4c9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3137342f3137343835372e706e67" width="15" style="max-width: 100%;"> Linkedin</a>
 
-- 👋 Hi, I’m @maxeekhout33
-- 👀 I’m interested in being a fpv drone pilot
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 4Geeks Academy
-- 📫 How to reach me: maxeekhout93@gmail.com
+<hr></hr>
 
 ### 📗 &nbsp;Technical Skills
 
@@ -20,6 +20,8 @@
  - Version Control: Git, GitHub.
  - Tools and Methodologies: Agile, Scrum.
 
+<hr></hr>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -28,6 +30,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maxeekhout33&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<hr></hr>
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -43,6 +47,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> 
 </p>
+
+<hr></hr>
 
 <!---
 maxeekhout33/maxeekhout33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
