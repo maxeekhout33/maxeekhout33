@@ -1,7 +1,8 @@
-<div align="center">
-<h1 align="center">Hi, I'm <a href="">Max!</a> 👋</h1>
-</div>
 <img src="https://i.imgur.com/OSdr9n3.png">
+<div align="center">
+<h1 align="center"><a href="">Hi, I'm Max! 👋 <br> From 🌎 </a></h1>
+</div>
+
 
 ## About me
 
@@ -10,6 +11,14 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on 4Geeks Academy
 - 📫 How to reach me: maxeekhout93@gmail.com
+
+### 📗 &nbsp;Technical Skills
+
+ - Programming Languages: Python, JavaScript, HTML, CSS, Arduino.
+ - Frameworks and Libraries: Bootstrap, React, Flask.
+ - Databases: SQL, SQAlchemy.
+ - Version Control: Git, GitHub.
+ - Tools and Methodologies: Agile, Scrum.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -20,6 +29,20 @@
 </a>
 </p>
 
+### 🛠 &nbsp;Languages and Tools
+
+<p align="center"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>                                      
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> 
+</p>
 
 <!---
 maxeekhout33/maxeekhout33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
