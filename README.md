@@ -6,7 +6,7 @@
 ### About me
 
 - I'm currently learning more Python while developing my personal portfolio to enhance my knowledge in Back-end.
-- I'm interested in being an FPV drone pilot
+- I'm interested in being a FPV drone pilot
 - I ♥ Bayern Munich ⚽
 - How to reach me: maxeekhout93@gmail.com
 - Connect with me: <a href="https://www.linkedin.com/in/maxeekhout" rel="nofollow"><img src="https://camo.githubusercontent.com/8c244a7a7b8a6e767d241c9a6c5e1b5e13ea693770c52bbc3fe564ba4044a4c9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3137342f3137343835372e706e67" width="15" style="max-width: 100%;"> Linkedin</a>
